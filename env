@@ -1,8 +1,8 @@
-# PHPNuxBill Database Configuration
+
 DB_HOST=sql12.freedb.tech
 DB_PORT=3306
 DB_NAME=freedb_MnetiManage
-DB_USER=freedb_Admiuser
+DB_USER=freedb_admiuser
 DB_PASS=%h&akR&9xgWE$f#
 
 # Application URL (no trailing slash)
